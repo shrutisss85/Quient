@@ -1,0 +1,113 @@
+.about {
+  width: 80%;
+  height: 50vh;
+  display: flex;
+  padding-top: 40px;
+  padding-left: 10%;
+}
+
+.pic {
+  padding-left: 50px;
+  height: 100px;
+  width: 30%;
+}
+.pic img {
+  border-radius: 5px;
+}
+
+.text {
+  width: 50%;
+}
+
+.abt h1 {
+  text-align: center;
+  color: rgb(55, 55, 155);
+}
+
+.sec {
+  width: 100%;
+  padding-top: 30px;
+  text-align: center;
+  height: 500px;
+  margin-top: 100px;
+  background-color: rgb(119, 187, 207);
+}
+.sec h1 {
+  color: rgb(55, 55, 155);
+  text-decoration: underline;
+  text-decoration-color: rgb(207, 204, 204);
+}
+
+.why {
+  justify-content: space-between;
+  padding-left: 5px;
+  display: flex;
+  width: 90%;
+  height: 350px;
+  margin-top: 100px;
+  background-color: rgb(119, 187, 207);
+  padding-left: 6%;
+}
+
+.why h1 {
+  color: rgb(55, 55, 155);
+  text-align: center;
+}
+
+.row1 {
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  border: 2px solid rgb(207, 204, 204);
+}
+
+.row2 {
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  border: 2px solid rgb(207, 204, 204);
+}
+
+.row3 {
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  border: 2px solid rgb(207, 204, 204);
+}
+
+.row4 {
+  width: 300px;
+  height: 200px;
+  margin-right: 20px;
+  border: 2px solid rgb(207, 204, 204);
+}
+
+h4 {
+  font-size: 30px;
+  color: rgb(55, 55, 155);
+}
+
+.row1 p {
+  padding-top: 20px;
+}
+
+.row2 p {
+  padding-top: 20px;
+}
+
+.row3 p {
+  padding-top: 20px;
+}
+
+.row4 p {
+  padding-top: 20px;
+}
+
+.fas {
+  font-size: 35px;
+  padding-top: 5px;
+  font-weight: bolder;
+}
+h4 {
+  margin-top: 15px;
+}

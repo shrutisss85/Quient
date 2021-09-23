@@ -1,0 +1,85 @@
+.testimonials {
+  height: 700px;
+  background-color: rgb(220, 243, 243);
+}
+.testimonials h1 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 5vh;
+  font-weight: bolder;
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #f14406;
+}
+.testimonials h6 {
+  text-align: center;
+  font-size: 3vh;
+  padding-top: 10px;
+}
+.grid {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.grid1 {
+  height: 450px;
+  width: 300px;
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+}
+.grid2 {
+  height: 450px;
+  width: 300px;
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+}
+.grid3 {
+  height: 450px;
+  width: 300px;
+  background: linear-gradient(90deg, #00c9ff 0%, #92fe9d 100%);
+}
+.subgrid1 {
+  padding-top: 20px;
+  text-align: center;
+}
+.subgrid1 img {
+  border-radius: 50%;
+}
+.subgrid4 {
+  padding-top: 20px;
+  text-align: center;
+}
+.subgrid4 img {
+  border-radius: 50%;
+}
+.subgrid7 {
+  padding-top: 20px;
+  text-align: center;
+}
+.subgrid7 img {
+  border-radius: 50%;
+}
+.subgrid2 {
+  margin-top: 40px;
+  text-align: center;
+}
+.subgrid3 {
+  margin-top: 80px;
+  text-align: center;
+}
+.subgrid5 {
+  margin-top: 40px;
+  text-align: center;
+}
+.subgrid6 {
+  margin-top: 80px;
+  text-align: center;
+}
+.subgrid8 {
+  margin-top: 40px;
+  text-align: center;
+}
+.subgrid9 {
+  margin-top: 80px;
+  text-align: center;
+}
